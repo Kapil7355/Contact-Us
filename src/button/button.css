@@ -1,0 +1,26 @@
+
+.button-container button{
+    margin: 0 10px;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
+.btn{
+    background-color:black;
+    color: white;
+    border: none;
+    padding: 15px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+} 
+.outline{
+    background-color: white;
+    justify-items: center;
+    display: flex;
+    align-items: center;
+    color: black;
+    width: 100%;
+    border: 2px solid black;
+} 

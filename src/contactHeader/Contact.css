@@ -1,0 +1,11 @@
+.contactHeader
+{
+    width: 1000px;
+    margin: 0 auto;
+}
+.contactHeader h1
+{
+    margin-top: 20px;
+    font-size: 48px;
+    margin-bottom: 20px;
+}

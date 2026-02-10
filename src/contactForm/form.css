@@ -1,0 +1,65 @@
+ .form_container {
+     display: flex;
+     max-width: 1000px;
+     margin: 0 auto;
+     gap: 50px;
+
+ }
+
+ .form_left form {
+     display: flex;
+     flex-direction: column;
+     gap: 20px;
+
+ }
+
+ .topbtn {
+     margin-top: 20px;
+     display: flex;
+     gap: 20px;
+     justify-content: center;
+     align-items: center;
+     /* margin-bottom: 20px; */
+ }
+
+ .form_left {
+     display: flex;
+     flex-direction: column;
+     gap: 15px;
+ }
+
+ .formdesign {
+     display: flex;
+     flex-direction: column;
+     width: 100%;
+     position: relative;
+ }
+
+ .form_left input {
+     padding: 0 8px;
+     height: 40px;
+
+ }
+
+ .form_left label {
+     position: absolute;
+     top: -12px;
+     left: 15px;
+     background-color: white;
+ }
+
+ .form_left textarea {
+     padding: 8px;
+     resize: vertical;
+     min-height: 100px;
+ }
+
+ .form_right img {
+     max-width: 300px;
+     height: auto;
+     margin-left: 250px;
+ }
+ .submitbtn{
+    margin-left: 300px;
+
+ }
